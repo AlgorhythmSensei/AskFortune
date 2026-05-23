@@ -2,6 +2,12 @@
 
 ## Release Notes (2026-05-23)
 
+AskFortune is a desktop companion app for Powerball, Oz Lotto, and Saturday Lotto. It retrieves official historical draw data, analyzes number‑frequency trends, and presents structured suggested lines with clean, readable visual formatting.
+
+Important: AskFortune is created purely for entertainment and statistical curiosity. Lottery outcomes are entirely random, and no tool can improve your odds. This is not a recommendation to gamble. Only participate in lotteries if it is legal in your area and you can do so responsibly. If gambling causes stress or financial pressure, seek support and consider stepping away entirely.
+
+Disclaimer: Any decisions you make based on AskFortune are entirely your own. I take no responsibility for financial outcomes, losses, or any consequences related to lottery participation.
+
 - Added game-aware suggestion formatting:
 	- Powerball outputs `N1..N7 + PB`
 	- Oz Lotto outputs 7 main numbers
