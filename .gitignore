@@ -1,0 +1,17 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.venv-tk/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Local secrets
+.env
+.env.local
+*.env.local
